@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-1 {
+    background-color: #3E3F3E;
+    height: 100%;
+
+
+}
+
+.right-item {
+    margin-left: auto;
+}
+
+.nav-name {
+    color: #ffffff;
+    font-family: inter, Sans-Serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.my-photo {
+    height: 300px;
+    width: 200px;
+    margin-top: 4rem;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.helo {
+    color: #EEEEDB;
+    font-size: 18px;
+    font-family: inter, Sans-Serif;
+    word-spacing: 5px;
+
+}
+
+.full-stack {
+    color: #5BB6BA;
+    padding-top: 4px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-weight: 700;
+}
+
+.contact {
+    color: #EEEEDB;
+    padding-top: 4px;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+.about {
+    margin-top: 0px;
+    color: #EEEEDB;
+    font-size: 36px;
+}
+
+.line {
+    background-color: #5BB6BA;
+    width: 8.3rem;
+    height: 0.1rem;
+
+}
+
+.card-web {
+    background-color: #060606;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.img-1-service {
+    height: 3.9rem;
+}
+
+.web-deve {
+    color: #EB7F7F;
+    margin-top: 2px;
+    font-size: 20px;
+}
+
+.web-dev-para {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.card-web-1 {
+    background-color: #FE9900;
+    border-radius: 10px;
+    padding: 5px;
+    padding-bottom: 1rem;
+}
+
+.intern-heading {
+    font-size: 23px;
+    font-weight: 700;
+    font-family: inter, Sans-Serif;
+}
+
+.web-dev-para-1 {
+    color: #6F4608;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 5px;
+}
+
+.my-skill {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.line-html {
+    background-color: #FE9900;
+    width: 7.6rem;
+    height: 0.3rem;
+
+}
+
+.line-css {
+    background-color: #FE9900;
+    width: 7.4rem;
+    height: 0.3rem;
+
+}
+
+.line-js {
+    background-color: #FE9900;
+    width: 5.3rem;
+    height: 0.3rem;
+
+}
+
+.line-python {
+    background-color: #FE9900;
+    width: 7rem;
+    height: 0.3rem;
+
+}
+
+.line-sql {
+    background-color: #FE9900;
+    width: 6rem;
+    height: 0.3rem;
+
+}
+
+.line-java {
+    background-color: #FE9900;
+    width: 3.5rem;
+    height: 0.3rem;
+
+}
+
+.made-center {
+    text-align: center;
+}
